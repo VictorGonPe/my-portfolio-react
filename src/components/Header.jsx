@@ -1,4 +1,4 @@
-function <Hgroup></Hgroup>eader() {
+function Header() {
   return (
     <div>Contenido del header</div>
   )
